@@ -84,3 +84,49 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+## Why I'm forking this
+
+I want a place to go for a playground to try out new ideas, libraries, tools. This felt like a good starting place where I could build on top of and explore new things. 
+
+### Initial ideas (Productionize it to an extent
+
+- Testing (add supertest, vitest, cypress, stress tests, maybe visual regressions, maybe msw)
+- Logging and observability
+- Migrate to SQL
+- CI/CD pipelines (gh actions)
+- AWS deployment? Or stick to Vercel? Terraform?
+- Auth built out more.. with roles
+- Email, notifications, invites
+- Multiple environments
+- Open graph w/meta tags
+- Analytics
+- Payments
+- Locale support
+- Feature flags
+- Transaction lock issues?
+- SNS
+  
+### Toys
+
+- Test out css libraries (this already has tailwind but I'm curious about these others
+    - PandaCSS
+    - KumaUI
+    - UnoCSS
+- Add animations using Framer
+- RadixUI
+- Trpc (zod) vs graphql vs rest (zod)
+- Prisma vs. Drizzle vs Kysely 
+- Monorepo?
+- Try out building in Astro/Svelte/HTMX
+- Rust backend (AXUM)
+- Pnpm or just switch to Bun?
+- AI stuff.. code review
+- Blog mdx
+- Cron job
+
+### Features
+
+Need to explore more but
+- build out wishlist
+- chat
