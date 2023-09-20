@@ -35,8 +35,6 @@ Features:
 - How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
 - How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 - How to handle relations between Server and Child components!
-- Implement CMS
-- Dark mode? Just because
 
 ### Prerequisites
 
@@ -108,6 +106,7 @@ I want a place to go for a playground to try out new ideas, libraries, tools. Th
 - Feature flags
 - Transaction lock issues?
 - SNS
+- Implement CMS
   
 ### Toys
 
@@ -126,6 +125,7 @@ I want a place to go for a playground to try out new ideas, libraries, tools. Th
 - AI stuff.. code review
 - Blog mdx
 - Cron job
+- Dark mode? Just because
 
 ### Features
 
