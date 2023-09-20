@@ -35,6 +35,8 @@ Features:
 - How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
 - How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 - How to handle relations between Server and Child components!
+- Implement CMS
+- Dark mode? Just because
 
 ### Prerequisites
 
