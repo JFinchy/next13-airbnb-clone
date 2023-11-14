@@ -89,11 +89,11 @@ Running commands with npm `npm run [command]`
 
 I want a place to go for a playground to try out new ideas, libraries, tools. This felt like a good starting place where I could build on top of and explore new things. 
 
-### Initial ideas (Productionize it to an extent
+### Initial ideas (Productionize it to an extent)
 
-- Testing (add supertest, vitest, cypress, stress tests, maybe visual regressions, maybe msw)
+- Migrate to SQL and Kysely 
+- Testing (add msw, supertest, vitest, cypress, stress tests, maybe visual regressions)
 - Logging and observability
-- Migrate to SQL
 - CI/CD pipelines (gh actions)
 - AWS deployment? Or stick to Vercel? Terraform?
 - Auth built out more.. with roles
@@ -101,13 +101,15 @@ I want a place to go for a playground to try out new ideas, libraries, tools. Th
 - Multiple environments
 - Open graph w/meta tags
 - Analytics
+- SEO?
 - Payments
 - Locale support
 - Feature flags
 - Transaction lock issues?
 - SNS
 - Implement CMS
-  
+- Add Go micro-services 
+
 ### Toys
 
 - Test out css libraries (this already has tailwind but I'm curious about these others
